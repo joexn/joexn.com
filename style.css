@@ -39,7 +39,9 @@ ul.topnav li {
 	display: inline-block;
 }
 ul.topnav li a {
-	font-family: "Raleway", Helvetica, Arial, sans-serif;
+	font-family: 'TeXGyreAdventorBold'; 
+	font-weight: normal; 
+	font-style: normal; 
 	display: block;
 	color: #565656;
 	text-align: center;
