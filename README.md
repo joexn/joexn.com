@@ -1,2 +1,0 @@
-# joexn.com
-joexn.com 
